@@ -150,7 +150,7 @@ export default function Home() {
       <section style={{ padding: 'clamp(48px,8vw,80px) 0' }}>
         <div style={{ padding: '0 clamp(16px,4vw,48px)', marginBottom: 40, display: 'flex', justifyContent: 'space-between', alignItems: 'flex-end', flexWrap: 'wrap', gap: 12 }}>
           <div>
-            <p className="eyebrow" style={{ marginBottom: 8 }}>Selección</p>
+            <p className="eyebrow" style={{ marginBottom: 8 }}>Polonés</p>
             <h2 style={{ fontFamily: 'var(--font-display)', fontSize: 'clamp(2rem,5vw,3.2rem)', fontWeight: 300 }}>Nuestros favoritos</h2>
           </div>
           <Link to="/tienda" style={{ fontSize: '0.75rem', letterSpacing: '0.12em', textTransform: 'uppercase', color: 'var(--gold)' }}>
